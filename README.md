@@ -5,29 +5,26 @@
 ## Live Demo
 https://andre12001.github.io/
 
-## Installation
-1. Clone this repository.
+## Installasi
+1. Download repositori
 ```bash
 git clone https://github.com/kang-icip/DWAdmin-Template.git
 ```
-2. To view the website, go to the cloned folder and then open the index.html file.
+2. Untuk melihat hasilnya, silahkan pergi ke folder download anda dan buka file index.html.
 
-## What Is DWAdmin
-DWAdmin is a dashboard website made using Bootstrap 4, CSS and other libraries. This template is very lightweight and suitable for many applications.
+## Apa itu DWAdmin
+DWAdmin adalah template web site yang menggunakan Framework Bootstrap.
 
-### Why is it open source?
-Because I want this template to be enjoyed by others.
+### Fitur
+- Tampilan Responsif
+- Terdapat tema Terang dan Gelap
+- Halaman Login
+- Halaman Daftar
+- Halaman Reset Password
 
-### DWAdmin features
-- Responsive display
-- Has many themes including light and dark
-- Login page
-- Register page
-- Reset password page
-
-## Thank's To
+## Terimakasih
 - Github : <a href="https://github.com/andre12001"> @andre12001</a>
-## 📝 License
+## License
 - Copyright © 2020 DWAdmin
 - **DWAdmin is open-sourced software licensed under the MIT license**
 
